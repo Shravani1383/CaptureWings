@@ -14,4 +14,4 @@ pip install pyscreenrec
 ```
 
 ## Results
-<img src="https://github.com/Shravani1383/CaptureWings/blob/main/Output.png" width="128"/>
+<img src="https://github.com/Shravani1383/CaptureWings/blob/main/Output.png" width="228"/>
